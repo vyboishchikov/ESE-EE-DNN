@@ -1,10 +1,10 @@
 <html>
 
-<h1 align=center style='margin:0cm;margin-bottom:6pt;text-align:center'>
+<h1>
 <span style='font-size:30pt;font-family:"Open Sans"'>ESE-EE-DNN &ndash; Easy
 Solvation Energy Evaluation with Electronegativity Equalization and Dense Neural Network</span></h1>
 
-<h2 align=center style='margin:0cm;margin-bottom:0pt;text-align:center'><span
+<h2><span
 style='font-family:"Open Sans"'>Introduction and User's Guide</span></h2>
 
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
