@@ -1,37 +1,5 @@
 <html>
 
-<head>
-<style>
-<!--
-h1
-	{mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:1;
-	font-size:24pt;
-	font-weight:bold;}
-h2
-	{mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:2;
-	font-weight:bold;}
-p
-	{mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	font-family:"Open Sans";
-	font-size:12pt;}
-</style>
-<![endif]-->
-</head>
-
 <h1 align=center style='margin:0cm;margin-bottom:6pt;text-align:center'>
 <span style='font-size:30pt;font-family:"Open Sans"'>ESE-EE-DNN &ndash; Easy
 Solvation Energy Evaluation with Electronegativity Equalization and Dense Neural Network</span></h1>
@@ -50,7 +18,7 @@ that eventually yields the solvation free energy.</span></p>
 
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
 <i>ESE-EE-DNN</i> is an improved machine-learning adaptation of my <i>ESE-EE</i> scheme [3],
-which is in turn based on the <a href="http://iqcc.udg.edu/~vybo/ESE">uESE</a> [3] and xESE [4]
+which is in turn based on the <a href="https://github.com/vyboishchikov/ESE">uESE</a> [3] and xESE [4]
 that we developed jointly with Alexander Voityuk.</span></p>
 
 <p style='margin-top:12pt'><span style='font-family:"Open Sans"'>
