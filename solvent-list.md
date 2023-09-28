@@ -1,45 +1,6 @@
 <html>
-<head>
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:SimSun;
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
-@font-face
-	{font-family:Times;
-	panose-1:2 2 6 3 6 4 5 2 3 4;}
-@font-face
-	{font-family:"\@SimSun";
-	panose-1:2 1 6 0 3 1 1 1 1 1;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0cm;
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-	font-family:Times;}
-h1
-	{margin-top:12.0pt;
-	margin-right:0cm;
-	margin-bottom:3.0pt;
-	margin-left:0cm;
-	page-break-after:avoid;
-	font-size:16.0pt;
-	font-family:Arial;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-
-</head>
-
 <body>
-
 <div class=Section1>
-
 <h1><span>List of solvents supported by the uESE program</span></h1>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=818
