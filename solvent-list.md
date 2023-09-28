@@ -1,10 +1,5 @@
 <html>
-
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 10 (filtered)">
-<title>Solvent list </title>
-
 <style>
 <!--
  /* Font Definitions */
