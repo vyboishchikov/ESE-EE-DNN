@@ -37,6 +37,10 @@ The ESE-EE-DNN program can be run from the command line as follows:</p>
 <p style='margin-top:6pt;margin-bottom:0cm'>
 <tt><b>ESE-EE-DNN.exe <i>xyz-file</i> -charge <i>charge</i> -solvent <i>solvent</i></b></tt></p>
 
+<p><i><b>Warning:</b></i> The xyz-file should contain atomic symbols (or numbers) and 
+Cartesian coordinates (in &#8491;) and an empty line at the end. It should not contain
+any header.
+
 <p style='margin-top:12pt;margin-bottom:0pt'>
 If your solvent is not in this <a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/solvent-list.html">list</a>, you can use the following call format:</p>
 
