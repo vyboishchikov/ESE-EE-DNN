@@ -26,10 +26,10 @@ The ESE-EE-DNN solvation free energy can be calculated by the program ESE-EE-DNN
 which can be downloaded here free of charge:</p>
 
 <p style='margin:0cm;margin-bottom:0pt'>
-<a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/ESE-EE-DNN.exe">ESE-EE-DNN.exe</a> &ndash; Windows version</p>
+<a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/ESE-EE-DNN.exe">ESE-EE-DNN.exe</a> &ndash; Windows version (updated in August 2025 to solve some electrostatic instability issues)</p>
 
 <p style='margin-top:12pt;margin:0cm;margin-bottom:0pt'>
-<a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/ESE-EE-DNN.x">ESE-EE-DNN.x</a> &ndash; Linux version</p>
+<a href="https://github.com/vyboishchikov/ESE-EE-DNN/blob/main/ESE-EE-DNN.x">ESE-EE-DNN.x</a> &ndash; Linux version (updated in August 2025 to solve some electrostatic instability issues)</p>
 
 <p style='margin:0cm;margin-top:12pt'>
 The ESE-EE-DNN program can be run from the command line as follows:</p>
